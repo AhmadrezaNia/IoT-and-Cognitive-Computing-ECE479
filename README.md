@@ -1,4 +1,4 @@
-# IoT and Cognitive Computing (ECE 479) - Homework and Labs
+# IoT and Cognitive Computing (ECE 479) - Homeworks and Labs
 
 This repository contains my work for the **IoT and Cognitive Computing (ECE 479)** course, including two lab assignments and three homework assignments.
 
